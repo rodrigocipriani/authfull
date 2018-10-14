@@ -1,2 +1,2 @@
-# AuthFull - Fast OAuth in Nodejs with Docker
+# AuthFull - Full OAuth in Nodejs with Docker
 
