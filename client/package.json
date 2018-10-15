@@ -16,6 +16,11 @@
     "react-dom": "^16.5.2",
     "react-scripts": "2.0.4"
   },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
   "eslintConfig": {
     "extends": "react-app"
   },

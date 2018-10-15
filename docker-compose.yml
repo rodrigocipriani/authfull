@@ -3,6 +3,7 @@ version: "3.1"
 services:
 
   authfull:
+    restart: always
     container_name: authfull
     image: rodrigocipriani/authfull:0.0.1
     build:
